@@ -1,2 +1,2 @@
 # bruteBandit
-A custom brute shell script 
+custom pen testing scripts 
