@@ -21,4 +21,4 @@ do
         fi #close if loop
 done # close for loop
 
-# the reason this is so slow is because it is running through the whole script sorting and trying to find the uniq key each time.
+# the reason this is so slow is because it is running through the whole script sorting and trying to find the uniq key each time..
